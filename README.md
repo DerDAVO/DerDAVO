@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @David
-- 👀 I’m interested in IT world
-- 🌱 I’m currently learning JAVA
-- 😄 Pronouns: Davo
-- ⚡ Fun fact: " ; "
+# Bienvenido a mi Github
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DerDAVO&show_icons=true&theme=transparent)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DerDAVO&bg_color=00000000)](https://github.com/DerDAVO/github-readme-stats)
 
-<!---
-DerDAVO/DerDAVO is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
