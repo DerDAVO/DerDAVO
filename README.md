@@ -10,4 +10,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=DerDAVO&show_icons=true&theme=transparent" alt="GitHub Stats">
 </div>
 
-
+<!-- <a href="https://github.com/agusrnfr/AyED">
+      <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=DerDAVO&repo=OO1&theme=0d1117" />
+    </a> 
+ -->
