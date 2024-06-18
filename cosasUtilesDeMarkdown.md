@@ -27,6 +27,7 @@ ___
 ***Labore officia dolore nulla aliqua cupidatat culpa pariatur commodo eiusmod est commodo ut.***
 ## Enlaces
 [Github](https://github.com/ "Enlace a github")
+## Imagenes
 ![Github image](https://github.com/DerDAVO/DerDAVO/blob/main/media/github-icon.png "Icono de github")
 
 ## Codigo
